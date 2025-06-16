@@ -1,11 +1,11 @@
 <h1 align="center">Hola, Bienvenid@ a mi perfil de Github 🌑</h1>
 <a href="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-28.gif "><img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-28.gif" width="300" height="300" alt="BrunoSobrino"/></a>
-<h1 align="center">Soy Memo Chiko</h1>
-<a href="https://github.com/memochiko"><img src="https://github.com/memochiko/memochiko/blob/main/memochiko.png" width="300" height="300" alt="Memo Chiko"/></a>
+<h1 align="center">Soy Ainhoa Stephania</h1>
+<a href="https://github.com/ainhoasteph"><img src="https://github.com/memochiko/memochiko/blob/main/26ab.png" width="300" height="300" alt="Ainhoa"/></a>
 
 <br>
 
-<p align="right"> <h3>Visita del perfil :-D:-</h3> <img src="https://komarev.com/ghpvc/?username=memochiko-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Visita del perfil :-D:-</h3> <img src="https://komarev.com/ghpvc/?username=ainhoasteph-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -17,28 +17,6 @@
 - 🌱 Actualmente estoy aprendiendo Desarrollo Bot de WhatsApp y otros lenguajes de programación.
 
 - ⚡ Pasatiempo: - Jugar Videojuegos, Programar ,Ver anime xD
-<br>
-
-<h3 align="left">Sigueme En Mi Redes Sociales:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/memochiko.oficial/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/memochiko.oficial" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/memochiko.oficial" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://youtube.com/@memochiko.oficial" target="blank"><img align="center"
-      src="https://github.com/memochiko/memochiko/blob/main/youtube.png"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/memochiko.oficial" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
-
-<br>
 
 <h3 align="left">Idioma de programación:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
