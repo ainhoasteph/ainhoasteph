@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Bienvenid@ a mi perfil de Github 🌑</h1>
 <a href="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-28.gif "><img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-28.gif" width="300" height="300" alt="BrunoSobrino"/></a>
 <h1 align="center">Soy Ainhoa Stephania</h1>
-<a href="https://github.com/ainhoasteph"><img src="https://github.com/memochiko/memochiko/blob/main/26ab.png" width="300" height="300" alt="Ainhoa"/></a>
+<a href="https://github.com/ainhoasteph"><img src="https://github.com/ainhoasteph/ainhoasteph/blob/main/26ab.png" width="300" height="300" alt="Ainhoa"/></a>
 
 <br>
 
@@ -14,7 +14,7 @@
 <p><img align="right" src="https://github.com/Alba070503/Alba070503/blob/main/3AyY.gif" alt="Alba070593" /></p>
 
 
-- 🌱 Actualmente estoy aprendiendo Desarrollo Bot de WhatsApp y otros lenguajes de programación.
+- 🌱 Actualmente estoy aprendiendo Desarrollo Bot de Discord y otros lenguajes de programación.
 
 - ⚡ Pasatiempo: - Jugar Videojuegos, Programar ,Ver anime xD
 
@@ -64,20 +64,20 @@
 
 <h3>Estadísticas :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=memochiko&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ainhoasteph&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="memochiko" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memochiko&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ainhoasteph&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="memochiko" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memochiko&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Alba070503" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainhoasteph&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Alba070503" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Memo Chiko](https://github.com/memochiko)
+[Ainhoa](https://github.com/ainhoasteph)
